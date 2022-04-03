@@ -1,7 +1,7 @@
 .odd {background-color: rgb(228, 114, 141);font-family:verdana, sans-serif, "Dejavu sans";}
 
-.odd.large-font {background-color: rgb(237, 131, 180);font-family:verdana, sans-serif, "Dejavu sans";font-size: 24px;}
+.large-font {font-size: 24px;}
 
-#blue-text {color: rgb(34, 92, 240);font-size: 36px;}
+#blue-text {color: #0000ff;font-size: 36px;}
 
-#green-background {background-color: rgb(118, 189, 111);font-size: 24px;font-weight: bold;}
+#green-background {background-color: hsl(115, 37%, 59%);font-size: 24px;font-weight: bold;}
